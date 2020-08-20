@@ -1,0 +1,19 @@
+Problem :
+-----------
+1.First Unique Character in a String (https://leetcode.com/problems/first-unique-character-in-a-string/) 
+using Map and pair.
+2.Valid Parenthesis(https://leetcode.com/problems/valid-parentheses/) -- Stack
+3.Next Greater Element - https://leetcode.com/problems/next-greater-element-i/ - Stack
+4.Sliding Window Maximum - https://leetcode.com/problems/sliding-window-maximum/ - deque
+5. Practice - https://codeforces.com/contest/611/problem/B
+6.Pow function, gcd significance - if time permits
+Binary Search - code + problem
+1.normal Binary search
+2.frequency
+3.first element, last element
+4.binary search in rotated array
+5.predicate, AGGCOW
+practice
+--------
+codeforces - 10A
+codeforces - 10B
